@@ -4,6 +4,17 @@ Flutter 是谷歌公司基于谷歌的dart 语言开发的一款开源、免费�
 
 Flutter 是谷歌基于Dart 语言开发的一款跨平台的移动App 开发框架。它针对的开发者是全部开发者。
 
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+[TOC]
+
+=======
+>>>>>>> edf05547f15727f3313afc6a56393c4bbf468ac8
+=======
+>>>>>>> edf05547f15727f3313afc6a56393c4bbf468ac8
+=======
+>>>>>>> edf05547f15727f3313afc6a56393c4bbf468ac8
 ## 目录结构
 
 ![image-20201231161811255](https://raw.githubusercontent.com/Thea-wyj/pic/main/img/image-20201231161811255.png)
@@ -706,10 +717,30 @@ class HomeContent extends StatelessWidget {
    }
    ```
    
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+
+实现：
+
+![image-20210103032926164](https://raw.githubusercontent.com/Thea-wyj/pic/main/img/image-20210103032926164.png)
+
+=======
+=======
+>>>>>>> edf05547f15727f3313afc6a56393c4bbf468ac8
+=======
+>>>>>>> edf05547f15727f3313afc6a56393c4bbf468ac8
 实现：
    
 ![image-20210103032926164](https://raw.githubusercontent.com/Thea-wyj/pic/main/img/image-20210103032926164.png)
    
+<<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> edf05547f15727f3313afc6a56393c4bbf468ac8
+=======
+>>>>>>> edf05547f15727f3313afc6a56393c4bbf468ac8
+=======
+>>>>>>> edf05547f15727f3313afc6a56393c4bbf468ac8
 3. 利用自定义函数实现引入外来文件的动态列表
 
    实例：
